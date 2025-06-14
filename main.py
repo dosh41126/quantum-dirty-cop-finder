@@ -10,7 +10,6 @@ from dataclasses import dataclass
 from typing import Tuple
 
 import numpy as np
-from PIL import Image
 import cv2
 import face_recognition
 import pennylane as qml
